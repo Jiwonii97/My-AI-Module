@@ -1,0 +1,5 @@
+git+https://github.com/jungin500/py-hanspell
+pandas
+googletrans==3.1.0a0
+seaborn
+matplotlib
